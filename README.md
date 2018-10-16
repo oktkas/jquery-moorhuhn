@@ -1,5 +1,5 @@
 # jquery-moorhuhn
-very old jquery moorhuhn reproduction
+very old jquery moorhuhn reproduction modified to ZyXEL routers
 
 
-[http://stetro.github.io/jquery-moorhuhn/](http://stetro.github.io/jquery-moorhuhn/)
+[https://ZyXEL.oktkas.cz/](https://ZyXEL.oktkas.cz/)
